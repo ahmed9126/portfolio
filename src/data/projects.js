@@ -5,7 +5,7 @@ export const projectsData = [
     subtitle: "Flutter UI & Custom Search Integration",
     description: "A mobile job search interface with category filtering, modern design, and responsive layouts built using Flutter.",
     tags: ["Flutter", "Dart", "ScreenUtil", "UI/UX"],
-    githubUrl: "https://github.com/Ahmad-Salehin"
+    githubUrl: "https://github.com/techmasterycompany-star/findwork_flutter"
   },
   {
     id: "leoclinic",
@@ -13,6 +13,6 @@ export const projectsData = [
     subtitle: "Medical Services & Booking Platform",
     description: "Medical application for clinic bookings, viewing doctor profiles, and managing API authentication flows.",
     tags: ["Flutter", "Dart", "Dio", "REST API", "BLoC / Cubit", "GoRouter"],
-    githubUrl: "https://github.com/Ahmad-Salehin"
+    githubUrl: "https://github.com/techmasterycompany-star/LeoClinic_flutter"
   }
 ];
